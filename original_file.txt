@@ -1,1 +1,0 @@
-start = 31|end = 60511|during = 60480|speaker = SPEAKER_00

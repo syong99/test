@@ -13,7 +13,7 @@ pipeline = Pipeline.from_pretrained(
 
 # step3
 # 오디오 파일 경로를 지정합니다.
-audio_file = "voice.wav"
+audio_file = "voice_test.wav"
 
 # step4
 # 오디오 파일에서 화자 분리를 수행합니다.
